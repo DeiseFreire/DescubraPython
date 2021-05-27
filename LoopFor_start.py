@@ -25,4 +25,4 @@ def loopEnum ():
     for i, d in enumerate(dias):
          print (i, d)
 loopEnum()  
-
+ 
